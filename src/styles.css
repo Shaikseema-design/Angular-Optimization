@@ -1,64 +1,63 @@
-/* You can add global styles to this file, and also import other style files */
-/* General Styling */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa; /* Light background */
-    color: #333; /* Default text color */
+    background-color: #f8f9fa; 
+    color: #333; 
   }
   
-  /* Header Styling */
+ 
   h1, h2, h3 {
-    color: #007bff; /* Blue text for headings */
+    color: #007bff; 
     margin: 10px 0;
   }
   
-  /* List Styling */
+
   ul {
-    list-style-type: none; /* Remove bullet points */
+    list-style-type: none;
     padding: 0;
   }
   
   li {
-    margin: 8px 0; /* Add spacing between items */
-    font-size: 18px; /* Increase font size */
-    color: #555; /* Slightly lighter text color */
+    margin: 8px 0; 
+    font-size: 18px; 
+    color: #555;
   }
   
-  /* Links Styling */
+
   a {
-    text-decoration: none; /* Remove underlines */
-    color: #007bff; /* Link color */
+    text-decoration: none;
+    color: #007bff;
     font-weight: bold;
   }
   
   a:hover {
-    text-decoration: underline; /* Add underline on hover */
+    text-decoration: underline;
   }
   
-  /* Buttons Styling */
+ 
   button {
-    background-color: #007bff; /* Blue button color */
-    color: white; /* White text */
-    border: none; /* Remove border */
-    border-radius: 5px; /* Rounded corners */
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    border-radius: 5px;
     padding: 10px 15px;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+    background-color: #0056b3; 
   }
   
-  /* Components Container Styling */
+ 
   .container {
-    max-width: 1200px; /* Restrict width for larger screens */
-    margin: 0 auto; /* Center container */
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 20px;
   }
   
-  /* Cards Styling */
+  
   .card {
     background-color: white;
     border-radius: 5px;
@@ -71,7 +70,7 @@ body {
     margin: 0 0 10px;
   }
   
-  /* Footer Styling */
+  
   footer {
     background-color: #007bff;
     color: white;
@@ -82,6 +81,6 @@ body {
     bottom: 0;
   }
   
-  /* Responsive Styling */
+ 
   
   
