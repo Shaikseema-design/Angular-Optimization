@@ -1,1 +1,87 @@
 /* You can add global styles to this file, and also import other style files */
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Light background */
+    color: #333; /* Default text color */
+  }
+  
+  /* Header Styling */
+  h1, h2, h3 {
+    color: #007bff; /* Blue text for headings */
+    margin: 10px 0;
+  }
+  
+  /* List Styling */
+  ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+  }
+  
+  li {
+    margin: 8px 0; /* Add spacing between items */
+    font-size: 18px; /* Increase font size */
+    color: #555; /* Slightly lighter text color */
+  }
+  
+  /* Links Styling */
+  a {
+    text-decoration: none; /* Remove underlines */
+    color: #007bff; /* Link color */
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  /* Buttons Styling */
+  button {
+    background-color: #007bff; /* Blue button color */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  /* Components Container Styling */
+  .container {
+    max-width: 1200px; /* Restrict width for larger screens */
+    margin: 0 auto; /* Center container */
+    padding: 20px;
+  }
+  
+  /* Cards Styling */
+  .card {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 15px 0;
+  }
+  
+  .card h3 {
+    margin: 0 0 10px;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  /* Responsive Styling */
+  
+  
